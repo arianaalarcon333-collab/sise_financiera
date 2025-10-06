@@ -1,0 +1,87 @@
+﻿@model Financiera.Model.Prestamo
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Prestamo</h4>
+<hr />
+@if (!string.IsNullOrEmpty(ViewBag.mensaje))
+{
+    <div class="alert alert-danger">
+        <p>@ViewBag.mensaje</p>
+        <p>@ViewBag.mensajeAdicional</p>
+    </div>
+}
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FechaDeposito" class="control-label"></label>
+                <input asp-for="FechaDeposito" class="form-control" />
+                <span asp-validation-for="FechaDeposito" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ClienteID" class="control-label"></label>
+                <select asp-for="ClienteID" asp-items="@ViewBag.clientes" class="form-select">
+                    <option selected disabled>--SELECCIONE--</option>
+                </select>
+                <span asp-validation-for="ClienteID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoPrestamoID" class="control-label"></label>
+                <select asp-for="TipoPrestamoID" asp-items="@ViewBag.tipos" class="form-select">
+                    <option selected disabled>--SELECCIONE--</option>
+                </select>
+                <span asp-validation-for="TipoPrestamoID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Moneda" class="control-label"></label>
+                <input asp-for="Moneda" class="form-control" />
+                <span asp-validation-for="Moneda" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Importe" class="control-label"></label>
+                <input asp-for="Importe" class="form-control" />
+                <span asp-validation-for="Importe" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plazo" class="control-label"></label>
+                <input asp-for="Plazo" class="form-control" />
+                <span asp-validation-for="Plazo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tasa" class="control-label"></label>
+                <input asp-for="Tasa" class="form-control" />
+                <span asp-validation-for="Tasa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<script>
+    const selectTipoPrestamo = document.querySelector('#TipoPrestamoID');
+    const inputTasa = document.querySelector('#Tasa');
+    selectTipoPrestamo.addEventListener('change', ()=>{
+        const idTipo = selectTipoPrestamo.value;
+        fetch('ObtenerTipoPrestamo/' + idTipo)
+        .then(response => response.json())
+        .then(data => {
+            inputTasa.value = data.tasa;
+        })
+    });
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

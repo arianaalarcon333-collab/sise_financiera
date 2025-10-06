@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.ConsoleApp\\Financiera.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.BusinessLogic\\Financiera.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.BusinessLogic\\Financiera.BusinessLogic.csproj",
+        "projectName": "Financiera.BusinessLogic",
+        "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.BusinessLogic\\Financiera.BusinessLogic.csproj",
+        "packagesPath": "D:\\Usuarios\\dsullon\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Usuarios\\dsullon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Data\\Financiera.Data.csproj": {
+                "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Data\\Financiera.Data.csproj"
+              },
+              "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj": {
+                "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.ConsoleApp\\Financiera.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.ConsoleApp\\Financiera.ConsoleApp.csproj",
+        "projectName": "Financiera.ConsoleApp",
+        "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.ConsoleApp\\Financiera.ConsoleApp.csproj",
+        "packagesPath": "D:\\Usuarios\\dsullon\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Usuarios\\dsullon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.BusinessLogic\\Financiera.BusinessLogic.csproj": {
+                "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.BusinessLogic\\Financiera.BusinessLogic.csproj"
+              },
+              "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj": {
+                "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Data\\Financiera.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Data\\Financiera.Data.csproj",
+        "projectName": "Financiera.Data",
+        "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Data\\Financiera.Data.csproj",
+        "packagesPath": "D:\\Usuarios\\dsullon\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Usuarios\\dsullon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj": {
+                "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj",
+        "projectName": "Financiera.Model",
+        "projectPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\Financiera.Model.csproj",
+        "packagesPath": "D:\\Usuarios\\dsullon\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Cursos\\SISE\\DSE\\AGO\\NCapas\\Financiera\\Financiera.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Usuarios\\dsullon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

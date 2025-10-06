@@ -1,0 +1,15 @@
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\bin\Debug\net8.0\Financiera.Data.deps.json
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\bin\Debug\net8.0\Financiera.Data.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\bin\Debug\net8.0\Financiera.Data.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financiera.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financiera.Data.AssemblyInfoInputs.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financiera.Data.AssemblyInfo.cs
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financiera.Data.csproj.CoreCompileInputs.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financiera.Data.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\refint\Financiera.Data.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financiera.Data.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\ref\Financiera.Data.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\bin\Debug\net8.0\Financiera.Model.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\bin\Debug\net8.0\Financiera.Model.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financiera.Data.csproj.AssemblyReference.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Data\obj\Debug\net8.0\Financie.4BBC6419.Up2Date

@@ -1,0 +1,17 @@
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\bin\Debug\net8.0\Financiera.BusinessLogic.deps.json
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\bin\Debug\net8.0\Financiera.BusinessLogic.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\bin\Debug\net8.0\Financiera.BusinessLogic.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financiera.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financiera.BusinessLogic.AssemblyInfoInputs.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financiera.BusinessLogic.AssemblyInfo.cs
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financiera.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financiera.BusinessLogic.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\refint\Financiera.BusinessLogic.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financiera.BusinessLogic.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\ref\Financiera.BusinessLogic.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\bin\Debug\net8.0\Financiera.Data.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\bin\Debug\net8.0\Financiera.Model.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\bin\Debug\net8.0\Financiera.Data.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\bin\Debug\net8.0\Financiera.Model.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financiera.BusinessLogic.csproj.AssemblyReference.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.BusinessLogic\obj\Debug\net8.0\Financie.C4EC8AB1.Up2Date

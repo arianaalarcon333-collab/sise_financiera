@@ -1,0 +1,11 @@
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\bin\Debug\net8.0\Financiera.Model.deps.json
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\bin\Debug\net8.0\Financiera.Model.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\bin\Debug\net8.0\Financiera.Model.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\Financiera.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\Financiera.Model.AssemblyInfoInputs.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\Financiera.Model.AssemblyInfo.cs
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\Financiera.Model.csproj.CoreCompileInputs.cache
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\Financiera.Model.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\refint\Financiera.Model.dll
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\Financiera.Model.pdb
+D:\Personal\Cursos\SISE\DSE\AGO\NCapas\Financiera\Financiera.Model\obj\Debug\net8.0\ref\Financiera.Model.dll
