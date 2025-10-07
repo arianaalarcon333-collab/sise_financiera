@@ -20,6 +20,19 @@ namespace Financiera.Data
         public List<Prestamo> Listar()
         {
             List<Prestamo> listado = new List<Prestamo>();
+            listado.Add(new Prestamo
+            {
+                ID= 1,
+                ClienteID = 1,
+                Estado = "p",
+                Fecha = DateTime.Today,
+                FechaDeposito= DateTime.Today.AddMonths(1),
+                Importe = 6500,
+                Moneda= "PEN",
+                Plazo= 6,
+                Tasa= 28.5M,
+                TipoPrestamoID= 2
+            });
             return listado;
         }
 
