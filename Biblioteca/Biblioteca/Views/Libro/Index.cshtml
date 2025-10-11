@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Biblioteca.Models.Libro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Listado de Libros</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form>
+    <div class="row">
+        <div class class="col-sm-4">
+            <label class="form-label">Autor:</label>
+            <select class="form-select" name="tipo" asp-items="@ViewBag.TiposCategorias">
+                <option value="">--TODOS--</option>
+            </select>
+            <div class="col-sm-4">
+             <label class="form-label">Categoría:</label>
+            <select class="form-select" name="tipo" asp-items="@ViewBag.TiposAutores">
+                <option value="">--TODOS--</option>
+            </select>
+            </div>
+
+        </div>
+
+        <div class="col-sm-4">
+            <input type="submit" name="" value="Consultar" class="btn btn-outline-primary" />
+        </div>
+    </div>
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publicacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAutor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCategoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publicacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAutor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCategoria)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit ", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Detalle", new { id=item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+@if (ViewBag.cantidadDePaginas > 1)
+{
+    <nav aria-label="Paginción de registros">
+        <ul class="pagination pagination-sm justify-content-center">
+            @for (int idx = 1; idx <= ViewBag.cantidadDePaginas; idx++)
+            {
+
+                <li class="page-item d">
+                    <a class="page-link" asp-route-page="@idx">@idx</a>
+                </li>
+            }
+
+        </ul>
+    </nav>
+
+}

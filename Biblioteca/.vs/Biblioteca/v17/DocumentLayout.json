@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EXAMEN_FINALLL\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|d:\\examen_finalll\\biblioteca\\biblioteca\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\views\\libro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\libro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|d:\\examen_finalll\\biblioteca\\biblioteca\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|d:\\examen_finalll\\biblioteca\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\views\\libro\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\libro\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|d:\\examen_finalll\\biblioteca\\biblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|d:\\examen_finalll\\biblioteca\\biblioteca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|D:\\EXAMEN_FINALLL\\Biblioteca\\biblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA6F4C-E757-40AA-A12B-76B959C9521C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T15:02:33.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Libro\\Index.cshtml",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Libro\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T14:58:35.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T15:02:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:07:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Libro\\Delete.cshtml",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Delete.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Libro\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T16:07:46.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Autor.cs",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\Autor.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:35:40.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Categoria.cs",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\Categoria.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:34:10.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\edit.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Libro\\edit.cshtml",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\edit.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Libro\\edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T16:38:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Create.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Libro\\Create.cshtml",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Create.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Libro\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T16:50:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\LibroController.cs",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAQwDABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T14:45:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Libro\\Detalle.cshtml",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Views\\Libro\\Detalle.cshtml",
+              "RelativeToolTip": "Biblioteca\\Views\\Libro\\Detalle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T16:35:59.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Libro.cs",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\Libro.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Libro.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T14:51:21.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\EXAMEN_FINALLL\\Biblioteca\\Biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:02:15.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
